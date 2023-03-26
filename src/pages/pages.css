@@ -1,0 +1,8 @@
+.pageContainer {
+  padding: 1rem 2rem;
+  max-width: 70rem;
+}
+
+.workshopFormatList li {
+  margin-bottom: 1rem;
+}
