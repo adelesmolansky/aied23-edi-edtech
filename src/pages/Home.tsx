@@ -17,18 +17,17 @@ const Home = () => {
         and personalized learning for all students. However, to improve learning
         for the majority of students, AI solutions may exclude those who are
         under-represented due to unique differences in their demographic
-        background or cognitive abilities. Towards combating this issue, we
-        propose a workshop that will initiate conversations about equity,
-        diversity, and inclusion in educational technology research and
-        development. The workshop is structured around three stages of learning
-        engineering – system design, experimental study, and data analysis –
-        with informational presentations, guest speakers, paper presentations
-        and group discussions in each stage. We will also solicit papers from
-        the AIED community about equitable and inclusive digital learning tools,
-        with selected authors being invited to present their work. Through the
-        participation of community members from multiple disciplines, we seek to
-        formulate a framework for developing and assessing equitable and
-        inclusive learning systems.
+        background or cognitive abilities. Towards combating this issue, this
+        workshop is organized to initiate conversations about equity, diversity,
+        and inclusion in educational technology research and development. The
+        workshop is structured around three stages of learning engineering -
+        system design, experimental study, and data analysis - with
+        informational presentations, guest speakers, paper presentations and
+        group discussions in each stage. We also invite community members to
+        participate in the workshop and share their experience with Equity,
+        Diversity, and Inclusion (EDI) practices. Through these conversations,
+        we seek to collectively formulate a framework for developing and
+        assessing equitable and inclusive learning systems.
       </p>
       <h2>Next steps</h2>
       <p>
@@ -44,7 +43,7 @@ const Home = () => {
       <h2>Workshop date</h2>
       <p>July 3 or 7, 2023</p>
       <h2>Workshop format</h2>
-      <p>Full day (in person & virtual option)</p>
+      <p>Full day (hybrid)</p>
       <p>
         <h2>Questions</h2>
         Contact Adele Smolansky (lead workshop orgnaizer):{" "}

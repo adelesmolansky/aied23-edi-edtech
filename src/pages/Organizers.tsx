@@ -47,40 +47,40 @@ const Organizers = () => {
       </p>
       <ul>
         <li>
-          <b> Ryan Baker </b>is a Professor at the University of Pennsylvania{" "}
+          <b> Ryan Baker </b>is a Professor at the University of Pennsylvania
         </li>
         <li>
-          <b>Jessica Hammer</b> is a Professor at Carnegie Mellon University{" "}
+          <b>Jessica Hammer</b> is a Professor at Carnegie Mellon University
         </li>
         <li>
-          <b>Richard Ladner</b> is a Professor at the University of Washington{" "}
+          <b>Richard Ladner</b> is a Professor at the University of Washington
         </li>
         <li>
-          <b>Shima Salehi</b> is a Professor at Stanford University{" "}
+          <b>Shima Salehi</b> is a Professor at Stanford University
         </li>
         <li>
-          <b>Nick Haber</b> is a Professor at Stanford University{" "}
+          <b>Nick Haber</b> is a Professor at Stanford University
         </li>
         <li>
-          <b>Ivon Arroyo</b> is a Professor at University of Massachusetts -
-          Amherst{" "}
+          <b>Ivon Arroyo</b> is a Professor at the University of Massachusetts -
+          Amherst
         </li>
         <li>
-          <b>Rod Roscoe</b> is a Professor at Arizona State University{" "}
+          <b>Rod Roscoe</b> is a Professor at Arizona State University
         </li>
         <li>
-          <b>Shamya Karumbaiah</b> is a Professor at University of Wisconsin -
-          Madison{" "}
+          <b>Shamya Karumbaiah</b> is a Professor at the University of Wisconsin
+          - Madison
         </li>
         <li>
-          <b>Hao-Fei Cheng</b> is an applied scientist at Amazon{" "}
+          <b>Hao-Fei Cheng</b> is an applied scientist at Amazon
         </li>
         <li>
           <b>Benjamin Shapiro</b> is a research scientist at Apple in the
           Education AI/ML Department
         </li>
         <li>
-          <b>Na Li</b> is a PhD candidate at Pennsylvania State University{" "}
+          <b>Na Li</b> is a PhD candidate at Pennsylvania State University
         </li>
 
         <li>

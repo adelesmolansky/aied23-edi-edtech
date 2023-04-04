@@ -24,8 +24,8 @@ const Format = () => {
       <h2>Time</h2>
       <p>Full day workshop (10:00-12:30 and 13:30-16:00)</p>
 
-      <h2>Location</h2>
-      <p>In person (Toyko, Japan) with virtual option (zoom)</p>
+      <h2>Location and mode</h2>
+      <p>Hybrid: In person (Toyko, Japan) with virtual option (zoom)</p>
 
       <h2>Schedule</h2>
       <p>
