@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/aied23-edi-edtech/static/css/main.46157de5.css",
-    "main.js": "/aied23-edi-edtech/static/js/main.1b17e928.js",
+    "main.css": "/aied23-edi-edtech/static/css/main.2e0b50df.css",
+    "main.js": "/aied23-edi-edtech/static/js/main.bad3ae88.js",
     "static/js/787.28cb0dcd.chunk.js": "/aied23-edi-edtech/static/js/787.28cb0dcd.chunk.js",
     "index.html": "/aied23-edi-edtech/index.html",
-    "main.46157de5.css.map": "/aied23-edi-edtech/static/css/main.46157de5.css.map",
-    "main.1b17e928.js.map": "/aied23-edi-edtech/static/js/main.1b17e928.js.map",
+    "main.2e0b50df.css.map": "/aied23-edi-edtech/static/css/main.2e0b50df.css.map",
+    "main.bad3ae88.js.map": "/aied23-edi-edtech/static/js/main.bad3ae88.js.map",
     "787.28cb0dcd.chunk.js.map": "/aied23-edi-edtech/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.46157de5.css",
-    "static/js/main.1b17e928.js"
+    "static/css/main.2e0b50df.css",
+    "static/js/main.bad3ae88.js"
   ]
 }
