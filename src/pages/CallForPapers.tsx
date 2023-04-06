@@ -1,4 +1,5 @@
 import React from "react";
+import TopicsList from "../components/TopicsList";
 
 import "./pages.css";
 
@@ -36,23 +37,7 @@ const CallForPapers = () => {
         inclusive digital learning tools for K-12 and higher education. These
         papers can include (but are not limited to) the following topics:
       </p>
-      <ul>
-        <li>
-          Designing a learning tool for underrepresented demographic populations
-          (e.g. personalizing to gender, helping students with disabilities)
-        </li>
-        <li>Evaluating the accessibility of a learning tool</li>
-        <li>Analyzing data from a learning tool with demographic elements</li>
-        <li>Developing learner models considering demographics</li>
-        <li>Exploring the bi-directional relationship between AI and EDI</li>
-        <li>
-          Reflecting on the proper usage of demographics data in AIED research{" "}
-        </li>
-        <li>
-          Discussing the influence of emerging large language models, such as
-          ChatGPT and Bard, on EDI in education.
-        </li>
-      </ul>
+      <TopicsList />
 
       <h2>Paper Guidelines</h2>
       <p>We are accepting paper submissions in one of the following formats:</p>

@@ -37,7 +37,7 @@ const Navbar = () => {
       {/* Always write my name in the left corner */}
       {!isMobile && (
         <Link className={"navbarTitle navbarItem"} to="/">
-          EDI in EtTech R&D
+          EDI in EdTech R&D
         </Link>
       )}
 

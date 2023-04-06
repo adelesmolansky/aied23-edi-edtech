@@ -1,16 +1,23 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import TopicsList from "../components/TopicsList";
 
 import "./pages.css";
 
 const Home = () => {
   return (
     <div className="pageContainer">
-      <h1>AIED 2023 Workshop</h1>
-      <h2>
+      <h1>
         Equity, Diversity, and Inclusion in Educational Technology Research and
         Development
-      </h2>
+      </h1>
+      <h2>AIED 2023 Workshop</h2>
+      <p>
+        The 24th International Conference on Artificial Intelligence in
+        Education, AIED 2023, will take place July 3-7, 2023 in Tokyo, Japan and
+        virtually (synchronous hybrid)
+      </p>
+      <h2>Abstract</h2>
       <p>
         Modern education stands to greatly benefit from technological advances,
         especially in Artificial Intelligence (AI), that aim to enable effective
@@ -29,6 +36,12 @@ const Home = () => {
         we seek to collectively formulate a framework for developing and
         assessing equitable and inclusive learning systems.
       </p>
+      <p>
+        <b>Educational focus:</b> K-12 and higher education.
+      </p>
+      <b>Example topics for discussion and call for papers:</b>
+      <TopicsList />
+
       <h2>Next steps</h2>
       <p>
         Please register for the workshop and submit (optional) a workshop paper.
@@ -46,7 +59,7 @@ const Home = () => {
       <p>Full day (hybrid)</p>
       <p>
         <h2>Questions</h2>
-        Contact Adele Smolansky (lead workshop orgnaizer):{" "}
+        Contact Adele Smolansky (workshop co-orgnaizer):{" "}
         <a
           target="_blank"
           href="mailto:as2953@cornell.edu"

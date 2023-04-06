@@ -1,6 +1,7 @@
 .pageContainer {
-  padding: 1rem 2rem;
-  max-width: 70rem;
+  padding-top: 1rem;
+  max-width: 80rem;
+  margin: 0 auto;
 }
 
 .workshopFormatList li {

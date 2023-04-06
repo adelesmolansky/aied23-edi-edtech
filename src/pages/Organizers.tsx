@@ -40,7 +40,7 @@ const Organizers = () => {
         </li>
       </ul>
 
-      <h2>Committe Members</h2>
+      <h2>Committee Members</h2>
       <p>
         The program committee includes researchers and professionals from
         various research areas at the intersection of AIED and EDI.
@@ -76,8 +76,8 @@ const Organizers = () => {
           <b>Hao-Fei Cheng</b> is an applied scientist at Amazon
         </li>
         <li>
-          <b>Benjamin Shapiro</b> is a research scientist at Apple in the
-          Education AI/ML Department
+          <b>Benjamin R. Shapiro</b> is a ML Research Manager and Lead, Learning
+          Sciences, Apple AIML
         </li>
         <li>
           <b>Na Li</b> is a PhD candidate at Pennsylvania State University
