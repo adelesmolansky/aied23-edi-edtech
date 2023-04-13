@@ -11,11 +11,26 @@ const Home = () => {
         Equity, Diversity, and Inclusion in Educational Technology Research and
         Development
       </h1>
+
       <h2>AIED 2023 Workshop</h2>
       <p>
         The 24th International Conference on Artificial Intelligence in
-        Education, AIED 2023, will take place July 3-7, 2023 in Tokyo, Japan and
-        virtually (synchronous hybrid)
+        Education, <a href="https://www.aied2023.org/">AIED 2023</a>, will take
+        place July 3-7, 2023 in Tokyo, Japan and virtually (synchronous hybrid).
+      </p>
+
+      <p>
+        The "Equity, Diversity, and Inclusion in Educational Technology Research
+        and Development" (EDI in EdTech R&D) workshop will happen during this
+        conference.
+      </p>
+
+      <p>
+        <b>Workshop date and time: </b>July 7, 2023; 10:00 - 16:00 (Toyko time)
+      </p>
+
+      <p>
+        <b>Workshop format: </b> Full day (hybrid){" "}
       </p>
       <h2>Abstract</h2>
       <p>
@@ -53,10 +68,7 @@ const Home = () => {
         10-20 minutes (depending on the number of papers selected). We will also
         publish selected papers to a popular workshop proceedings platform.
       </p>
-      <h2>Workshop date</h2>
-      <p>July 3 or 7, 2023</p>
-      <h2>Workshop format</h2>
-      <p>Full day (hybrid)</p>
+
       <p>
         <h2>Questions</h2>
         Contact Adele Smolansky (workshop co-orgnaizer):{" "}

@@ -33,10 +33,19 @@ const CallForPapers = () => {
       </p>
       <h2>Paper Topics</h2>
       <p>
-        As part of the workshop we are soliciting papers about equitable and
-        inclusive digital learning tools for K-12 and higher education. These
-        papers can include (but are not limited to) the following topics:
+        As part of the workshop we are soliciting papers about equity,
+        diversity, and inclusion in educational learning tools research and
+        development.
       </p>
+
+      <p>
+        <b>Educational focus:</b> K-12 and higher education.
+      </p>
+      <p>
+        <b>Paper topics</b> include (but are not limited to) the following
+        topics:
+      </p>
+
       <TopicsList />
 
       <h2>Paper Guidelines</h2>
@@ -51,12 +60,14 @@ const CallForPapers = () => {
         <a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines">
           Springer
         </a>
+        .
       </p>
       <h2>Submission</h2>
       <p>
-        Submissions can be made through the EasyChair system. Submission link
-        will be posted here shortly. Please see the Important Dates below for
-        the submission deadline.
+        Submissions can be made through the EasyChair system.{" "}
+        <a href="https://easychair.org/my/conference?conf=edi2023">
+          Click here to submit your paper.
+        </a>
       </p>
       <h2>Important dates:</h2>
       <ul>

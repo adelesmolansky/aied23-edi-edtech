@@ -21,20 +21,20 @@ const Navbar = () => {
     if (isSelected)
       return {
         fontWeight: 900,
-        fontSize: "1.25rem",
-        marginTop: "0.4rem",
+        fontSize: isMobile ? "1rem" : "1.25rem",
+        marginTop: isMobile ? "0.65rem" : "0.4rem",
       };
     else
       return {
         fontWeight: 400,
-        fontSize: "1.1rem",
-        marginTop: "0.55rem",
+        fontSize: isMobile ? "0.9rem" : "1.1rem",
+        marginTop: isMobile ? "0.7rem" : "0.55rem",
       };
   };
 
   return (
     <div className="navbarContainer">
-      {/* Always write my name in the left corner */}
+      {/* Always write the name in the left corner */}
       {!isMobile && (
         <Link className={"navbarTitle navbarItem"} to="/">
           EDI in EdTech R&D
