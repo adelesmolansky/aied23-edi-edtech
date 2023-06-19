@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/aied23-edi-edtech/static/css/main.2e0b50df.css",
-    "main.js": "/aied23-edi-edtech/static/js/main.ced65b94.js",
+    "main.css": "/aied23-edi-edtech/static/css/main.463de268.css",
+    "main.js": "/aied23-edi-edtech/static/js/main.560538d1.js",
     "static/js/787.28cb0dcd.chunk.js": "/aied23-edi-edtech/static/js/787.28cb0dcd.chunk.js",
     "index.html": "/aied23-edi-edtech/index.html",
-    "main.2e0b50df.css.map": "/aied23-edi-edtech/static/css/main.2e0b50df.css.map",
-    "main.ced65b94.js.map": "/aied23-edi-edtech/static/js/main.ced65b94.js.map",
+    "main.463de268.css.map": "/aied23-edi-edtech/static/css/main.463de268.css.map",
+    "main.560538d1.js.map": "/aied23-edi-edtech/static/js/main.560538d1.js.map",
     "787.28cb0dcd.chunk.js.map": "/aied23-edi-edtech/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2e0b50df.css",
-    "static/js/main.ced65b94.js"
+    "static/css/main.463de268.css",
+    "static/js/main.560538d1.js"
   ]
 }
