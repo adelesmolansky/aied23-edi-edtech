@@ -6,6 +6,7 @@ import Home from "./pages/Home";
 import CallForPapers from "./pages/CallForPapers";
 import Format from "./pages/Format";
 import Organizers from "./pages/Organizers";
+import AcceptedPapers from "./pages/AcceptedPapers";
 
 import "./App.css";
 
@@ -20,6 +21,7 @@ function App() {
         <Route path="/callForPapers" element={<CallForPapers />} />
         <Route path="/format" element={<Format />} />
         <Route path="/organizers" element={<Organizers />} />
+        <Route path="/acceptedPapers" element={<AcceptedPapers />} />
       </Routes>
     </HashRouter>
   );

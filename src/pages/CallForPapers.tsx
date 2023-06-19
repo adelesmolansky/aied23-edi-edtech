@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 import TopicsList from "../components/TopicsList";
 
 import "./pages.css";
@@ -31,6 +32,12 @@ const CallForPapers = () => {
         connect participants for future collaborations, such as on a literature
         review paper in this area of research.
       </p>
+
+      {/* Add a button to navigate to the accepted papers page */}
+      <p>
+        <Link to="/acceptedPapers">Click here to see the accepted papers</Link>
+      </p>
+
       <h2>Paper Topics</h2>
       <p>
         As part of the workshop we are soliciting papers about equity,
