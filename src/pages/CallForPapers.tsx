@@ -83,8 +83,12 @@ const CallForPapers = () => {
         <li> Paper review period: May 20 - June 7, 2023 </li>
         <li>Final paper decisions: June 8 - 11, 2023 </li>
         <li>Notification of acceptance: June 11, 2023 </li>
-        <li> Camera-ready deadline: June 25, 2023 </li>
-        <li>Workshop day: July 3 or July 7, 2023</li>
+        <li className="strikethrough">
+          {" "}
+          Camera-ready deadline: June 25, 2023{" "}
+        </li>
+        <li>Workshop day: July 7, 2023</li>
+        <li> Camera-ready deadline: July 20, 2023 </li>
       </ul>
 
       <h2>Review Process</h2>
@@ -100,9 +104,10 @@ const CallForPapers = () => {
 
       <h2>Selected Papers</h2>
       <p>
-        Authors of accepted papers will be invited to give a paper presentation
-        of 10-20 minutes (depending on the number of papers selected). We will
-        also publish accepted papers in the workshop proceedings.
+        Authors of accepted papers will be invited to give a full paper
+        presentation of 10 minutes or a short paper presentation of 2 minutes.
+        We will also publish accepted papers in the workshop proceedings on
+        Zenodo.
       </p>
 
       <h3>References</h3>

@@ -7,3 +7,7 @@
 .workshopFormatList li {
   margin-bottom: 1rem;
 }
+
+.strikethrough {
+  text-decoration: line-through;
+}

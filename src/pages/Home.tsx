@@ -26,7 +26,7 @@ const Home = () => {
       </p>
 
       <p>
-        <b>Workshop date and time: </b>July 7, 2023; 10:00 - 16:00 (Toyko time)
+        <b>Workshop date and time: </b>July 7, 2023; 9:00 - 17:00 (Tokyo time)
       </p>
 
       <p>
